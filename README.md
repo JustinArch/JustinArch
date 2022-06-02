@@ -1,5 +1,1 @@
-- 👋 Hi, I’m @JustinArch
-- 👀 I’m interested in golf and learning to code!
-- 🌱 I’m currently learning python
-- 💞️ I’m looking to collaborate on projects!
-- 📫 How to reach me LinkedIn!
+
